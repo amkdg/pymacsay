@@ -19,7 +19,6 @@ class Say:
 
         for arg in arguments:
             cmd_call = [self.path, '-v', voice, '-r', rate] + list(arg)
-            print(cmd_call)
             output = run(cmd_call)
             outputs.append(output)
 
