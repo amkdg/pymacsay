@@ -1,9 +1,9 @@
 # pymacsay
 https://pypi.org/project/pymacsay/
 
-pymacsay is a wrapper for the command-line tool `say` in macOS
+pymacsay is a mini-wrapper for the macOS commandline tool `say`
 
-`say` is a command-line tool that converts text to audible speech.
+`say` is a commandline tool that converts text to audible speech.
 
 ### How to use pymacsay
 Use `pip install pymacsay` to install pymacsay
